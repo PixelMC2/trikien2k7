@@ -8,7 +8,7 @@ https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
 https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today (HD 9Mbps)
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
 https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8
