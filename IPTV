@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://vietanhtv.id.vn/tv360/2/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=2
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://vietanhtv.id.vn/tv360/3/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=3
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://vietanhtv.id.vn/tv360/4/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=4
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://vietanhtv.id.vn/tv360/108/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=108
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
-https://vietanhtv.id.vn/tv360/9951/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9951
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://vietanhtv.id.vn/tv360/110/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=110
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://vietanhtv.id.vn/tv360/6/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=6
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://vietanhtv.id.vn/tv360/115/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=115
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://vietanhtv.id.vn/tv360/8/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV TV360" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://vietanhtv.id.vn/tv360/157/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=157
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV TV360" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://vietanhtv.id.vn/tv360/207/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=207
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
-https://vietanhtv.id.vn/tv360/98/index.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=98
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
@@ -41,8 +41,6 @@ https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
