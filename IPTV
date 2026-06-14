@@ -1,32 +1,47 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#------------------------VTV------------------------#
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://sgclient.duckdns.org/source/tv360.m3u8?id=2
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://sgclient.duckdns.org/source/tv360.m3u8?id=3
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://sgclient.duckdns.org/source/tv360.m3u8?id=4
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://sgclient.duckdns.org/source/tv360.m3u8?id=108
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9951
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://sgclient.duckdns.org/source/tv360.m3u8?id=110
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-https://sgclient.duckdns.org/source/tv360.m3u8?id=10043
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://sgclient.duckdns.org/source/tv360.m3u8?id=6
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://sgclient.duckdns.org/source/tv360.m3u8?id=115
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://sgclient.duckdns.org/source/tv360.m3u8?id=8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV TV360" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://sgclient.duckdns.org/source/tv360.m3u8?id=157
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV TV360" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://sgclient.duckdns.org/source/tv360.m3u8?id=207
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
-https://sgclient.duckdns.org/source/tv360.m3u8?id=98
+#------------------------FIFA WORLD CUP 2026------------------------#
+#EXTINF:0 tvg-id="vtv2hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.13:30120
+#EXTINF:0 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.247:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
+#EXTINF:0 tvg-id="vtv7hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
+#EXTINF:0 tvg-id="vtv9hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
 
+#------------------------VTV TV360------------------------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10043
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV TV360" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV TV360" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=207
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
+
+#------------------------VTV FPTPLAY------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
