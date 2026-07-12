@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260708
 #EXTINF:0 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-http://42.1.99.192:8080/secureVhost/vtv6.flv?token=vtv_secret_20260708
+http://103.78.0.190:8080/live/vtv6.flv?token=vtv_secret_20260712
 #EXTINF:0 tvg-id="vtv9hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 http://42.1.99.192:8080/secureVhost/vtv9.flv?token=vtv_secret_20260708
 #EXTINF:0 tvg-id="vtv10hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png",VTV10
