@@ -19,7 +19,7 @@ https://vmttv.dpdns.org/tv360/?id=vtv3-hd
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://vmttv.dpdns.org/tv360/?id=vtv4-hd
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today
-
+https://vmttv.dpdns.org/tv360/?id=vietnam-today-hd
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV TV360" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://vmttv.dpdns.org/tv360/?id=vtv5-hd
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV TV360" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
